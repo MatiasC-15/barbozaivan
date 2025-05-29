@@ -25,7 +25,7 @@ return;
 const randomIndex = Math.floor(Math.random() * data.length);
 const randomImage = data[randomIndex];
 const urlimg = randomImage.file_url;
-await conn.sendFile(m.chat, urlimg, 'thumbnail.jpg', `*Resultados De:* ${use}`, m, null, rcanal)
+await conn.sendFile(m.chat, urlimg, 'thumbnail.jpg', `*Resultados De:* ${use}`, m, null)
 } catch (error) {
 console.error(error);
 await m.reply(`🚩 Ocurrió un error. ${error.message}`);
