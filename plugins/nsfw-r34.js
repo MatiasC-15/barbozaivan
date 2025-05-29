@@ -19,7 +19,7 @@ sourceUrl: canal }}})
 const response = await fetch(url);
 const data = await response.json();
 if (!data || data.length === 0) {
-await conn.reply(m.chat, `🚩 No hubo resultados para *${use}*`, m, rcanal);
+await conn.reply(m.chat, `🚩 No hubo resultados para *${use}*`, m);
 return;
 }
 const randomIndex = Math.floor(Math.random() * data.length);
