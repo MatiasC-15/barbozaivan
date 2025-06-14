@@ -9,7 +9,7 @@ import axios from 'axios'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['593979133620', 'Mateo',true],
+  ['59397913362', 'Mateo',true],
   ['59169739411', 'Ivan',true],
 ]
 
@@ -20,18 +20,18 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `FnBot`
-global.author = 'FnBot'
-global.stickpack = 'FnBot-MD'
-global.stickauth = 'FnBot'
-global.wm = 'FnBot'
-global.dev = 'FnBot-MD'
+global.packname = `NovaBot`
+global.author = 'NovaBot'
+global.stickpack = 'NovaBot-MD'
+global.stickauth = 'NovaBot'
+global.wm = 'NovaBot'
+global.dev = 'NovaBot-MD'
 global.wait = '🌪️ *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛA... ฅ^•ﻌ•^ฅ'
-global.botname = 'FnBot-MD'
-global.textbot = `Powered By FnBot`
-global.dev = '• ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥴ᥆mᥙᥒі𝗍ᥡ ᑲ᥆𝗍 FnBot'
+global.botname = 'NovaBot-MD'
+global.textbot = `Powered By NovaBot`
+global.dev = '• ⍴᥆ᥕᥱrᥱძ ᑲᥡ ᥴ᥆mᥙᥒі𝗍ᥡ NovaBot'
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = 'FnBot'
+global.namechannel = 'NovaBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
